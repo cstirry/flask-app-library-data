@@ -1,6 +1,6 @@
 # flask-app-library-data
 
-Simple local flask app with bokeh chart of pre-processed Public Libraries Survey data
+Local flask app with bokeh chart of pre-processed Public Libraries Survey data
 
 ## Steps
 
